@@ -1,0 +1,6 @@
+{
+  "name": "SKY JUMP: ULTIMATE OBBY",
+  "description": "A vibrant 3D obstacle-course platformer high in the sky with 10 unique levels, dynamic obstacles, coins, checkpoints, and smooth third-person controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
